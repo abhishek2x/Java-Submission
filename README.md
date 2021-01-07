@@ -25,3 +25,15 @@ using both JDBC and JPA technology
 * Using Lambda Expression **concurrency features**
 
 ***
+
+## HackerRank Screenshots
+
+### Profile
+
+<img src="./images/profile.png">
+
+### Submissions
+
+<img src="./images/submissions.png">
+
+***
