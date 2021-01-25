@@ -4,7 +4,7 @@
 > Course Type - LTP <br/>
 > Credits - 4 <br/>
 
-<img height="300" width="700" src="https://specials-images.forbesimg.com/imageserve/5e7cce1921695a000666cc29/960x0.jpg?fit=scale" />
+<img height="300" width="800" src="https://specials-images.forbesimg.com/imageserve/5e7cce1921695a000666cc29/960x0.jpg?fit=scale" />
 
 ***
 
